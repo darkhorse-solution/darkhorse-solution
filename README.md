@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://your-header-image-url.com" alt="Header Image">
-</p>
+
 
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 
