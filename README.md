@@ -14,7 +14,7 @@
 
 ## ✨ About Me
 
-Hello! I'm **[Your Name]**, a passionate and experienced Blockchain and Full Stack Developer based in [Your Location]. I thrive on building innovative solutions and love working on both the frontend and backend of applications.
+Hello! I'm **DarkHorse-Solutionist**, a passionate and experienced Blockchain and Full Stack Developer based in [Your Location]. I thrive on building innovative solutions and love working on both the frontend and backend of applications.
 
 ## 🛠️ Skills
 
